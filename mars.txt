@@ -1,4 +1,8 @@
 Mars is now a cold and dusty place but it was once a tropical paradise.
 
+<<<<<<< HEAD
 I wonder if there are any little green men around
 
+=======
+We should bring spare tyre for curiosity 
+>>>>>>> 0ec2dc7a0edd34e019fa4514414bf929a65ca9c4
